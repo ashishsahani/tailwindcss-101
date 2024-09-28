@@ -4,3 +4,7 @@
 | --------- | ------------------------ | -------------------- |
 | 1         | Tailwind Starter Project | tailwind-starter     |
 | 2         | Email subscribe card     | email-subscribe-card |
+| 3         | Pricing Grid             | pricing-grid         |
+|           |                          |                      |
+|           |                          |                      |
+|           |                          |                      |
